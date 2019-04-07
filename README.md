@@ -1,1 +1,1 @@
-# Recognizing-handwritten-numbers
+Handwritten number recognition using NN.
